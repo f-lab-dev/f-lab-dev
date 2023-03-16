@@ -1,13 +1,12 @@
-### Hi there 👋
+### 👋 안녕하세요. 박중수입니다!
 
-**f-lab-dev/f-lab-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+간단한 자기소개를 해보겠습니다.
 
 - 🤔 저는 개발자들을 성장시키는데에 큰 관심을 가지고 있습니다.
 - 🌱 저는 경영을 천천히 배워나가고 있습니다.
 - 👯 저는 커뮤니티를 통한 성장이 정말 큰 힘을 가지고 있다고 믿습니다.
 
+<br/>
 
 ### 🔨 Skills
 
@@ -20,7 +19,9 @@ Here are some ideas to get you started:
 ![Spring MVC](https://img.shields.io/badge/-Spring%20MVC-6DB33F)
 ![Spring Data JPA](https://img.shields.io/badge/-Spring%20Data%20JPA-6DB33F?)
 
+<br/>
 
+### 📚 My github history
 [![Fitz's GitHub stats](https://github-readme-stats.vercel.app/api?username=f-lab-dev)](https://github.com/anuraghazra/github-readme-stats)
 
 
