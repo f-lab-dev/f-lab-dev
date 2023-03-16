@@ -21,6 +21,10 @@ Here are some ideas to get you started:
 ![Spring Data JPA](https://img.shields.io/badge/-Spring%20Data%20JPA-6DB33F?)
 
 
+[![Fitz's GitHub stats](https://github-readme-stats.vercel.app/api?username=f-lab-dev)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
 <br/>
 <br/><br/><br/>
 
