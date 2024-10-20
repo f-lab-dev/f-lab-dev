@@ -23,3 +23,8 @@ Here are some ideas to get you started:
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?logo=spring%20boot&logoColor=white)
 ![Spring MVC](https://img.shields.io/badge/-Spring%20MVC-6DB33F)
 ![Spring Data JPA](https://img.shields.io/badge/-Spring%20Data%20JPA-6DB33F?)
+
+<br/>
+
+### 📚 My github history
+[![Fitz's GitHub stats](https://github-readme-stats.vercel.app/api?username=f-lab-dev)](https://github.com/anuraghazra/github-readme-stats)
